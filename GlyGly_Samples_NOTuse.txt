@@ -1,0 +1,7 @@
+eat2_d15_DMSO_02	eat2_d15_DMSO
+eat2_d15_DMSO_04	eat2_d15_DMSO
+daf2_d1_DMSO_01	daf2_remeasured_d1_DMSO 
+daf2_d1_DMSO_02	daf2_remeasured_d1_DMSO
+daf2_d1_DMSO_03	daf2_remeasured_d1_DMSO
+daf2_d1_DMSO_04	daf2_remeasured_d1_DMSO
+
